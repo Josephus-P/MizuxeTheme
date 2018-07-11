@@ -1,2 +1,2 @@
 # MizuxeTheme
-Bootstrap Theme
+Book Theme built with Bootstrap
